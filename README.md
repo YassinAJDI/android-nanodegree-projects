@@ -1,2 +1,7 @@
 # android-nanodegree-projects
-🎓 All of my completed Android Nanodegree projects. https://www.udacity.com/course/android-developer-nanodegree-by-google--nd801
+
+
+## 📄 License
+
+This project is released under the MIT license.
+See [LICENSE](./LICENSE) for details.
