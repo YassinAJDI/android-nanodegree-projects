@@ -1,9 +1,28 @@
 # Android Nanodegree Projects
 
 
+# 🍖 Project #4: <a href="https://github.com/YassinAJDI/BakingApp">Baking App</a>
+
+<img src="https://raw.githubusercontent.com/YassinAJDI/BakingApp/master/screenshots/Screenshot_3.png?raw=true" width="40%" align="right">
+
+*#Exoplayer #Espresso #Widgets #Master/Detail Flow #Fragments*
+
+ This app allows a user to select a recipe and see video-guided steps for how to complete it.
+ In this project, you will create an app to view video-guided steps for how to complete recipes. You will handle media loading, verify your user interfaces with UI tests, and integrate third party libraries. You'll also provide a complete user experience with a home screen widget. This will involve finding and handling error cases, adding accessibility features, allowing for localization, adding a widget.
+ 
+ <img align="left" src="https://raw.githubusercontent.com/YassinAJDI/BakingApp/master/screenshots/Screenshot_1.png?raw=true" width="25%" />
+ <img align="left" src="https://raw.githubusercontent.com/YassinAJDI/BakingApp/master/screenshots/Screenshot_2.png?raw=true" width="25%" />
+ 
+ <br clear="left" />
+ <br />
+
+🔗 **[Check it out: Baking App](https://github.com/YassinAJDI/BakingApp)**
+
+<br clear="right" />
+
 # 🔨 Project #5: <a href="https://github.com/YassinAJDI/BuildItBigger">Build It Bigger</a>
 
-<img src="https://raw.githubusercontent.com/YassinAJDI/BuildItBigger/master/app-architecture.png" width="60%" align="right" hspace="20">
+<img src="https://raw.githubusercontent.com/YassinAJDI/BuildItBigger/master/app-architecture.png?raw=true" width="60%" align="right">
 
 *#Google Cloud Endpoints #Gradle*
 
@@ -19,7 +38,7 @@ A joke telling app with a free ad-supported version and a paid version. Google C
 
 *#UI #Material Design #Shared Element Transitions #ViewPager*
 
- A mock RSS feed reader featuring banner photos and headlines. Material Design + Shared Element Transitions with ViewPager and Fragments + WindowInsets .
+ A mock RSS feed reader featuring banner photos and headlines. In this project, you will redesign an app to follow the Material Design guidelines and translate a set of static design mocks to a living and breathing app.
  
  <img align="left" src="https://raw.githubusercontent.com/YassinAJDI/XYZReader/master/screenshots/screenshot_1.jpg" width="25%" />
  <img align="left" src="https://raw.githubusercontent.com/YassinAJDI/XYZReader/master/screenshots/screenshot_2.jpg" width="25%" />
