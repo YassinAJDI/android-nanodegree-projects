@@ -1,5 +1,21 @@
 # Android Nanodegree Projects
 
+# 🎥 Project #1: <a href="https://github.com/YassinAJDI/SandwichClub">SandwichClub</a>
+
+<img src="https://raw.githubusercontent.com/YassinAJDI/SandwichClub/master/images/mockup.png?raw=true" width="60%" align="right">
+
+*#JSON Parsing #Material Design #DataBinding*
+
+Building a layout and populating its fields from data received as JSON is a common task for Android Developers. Although JSON parsing is usually done using libraries, writing the JSON parsing for this project will help you to better understand how it is processed.
+ 
+ <br clear="left" />
+ <br />
+ 
+ 🔗 **[Check it out: Sandwich Club](https://github.com/YassinAJDI/SandwichClub)**
+
+<br clear="right" />
+<br />
+
 # 🎥 Project #2 & #3: <a href="https://github.com/YassinAJDI/PopularMovies">PopularMovies</a>
 
 <img src="https://github.com/YassinAJDI/PopularMovies/blob/master/screenshots/demo_gif.gif?raw=true" width="40%" align="right">
@@ -17,6 +33,7 @@
 🔗 **[Check it out: Popular Movies](https://github.com/YassinAJDI/PopularMovies)**
 
 <br clear="right" />
+<br />
 
 # 🍖 Project #4: <a href="https://github.com/YassinAJDI/BakingApp">Baking App</a>
 
@@ -36,6 +53,7 @@
 🔗 **[Check it out: Baking App](https://github.com/YassinAJDI/BakingApp)**
 
 <br clear="right" />
+<br />
 
 # 🔨 Project #5: <a href="https://github.com/YassinAJDI/BuildItBigger">Build It Bigger</a>
 
@@ -61,7 +79,6 @@ A joke telling app with a free ad-supported version and a paid version. Google C
  <img align="left" src="https://raw.githubusercontent.com/YassinAJDI/XYZReader/master/screenshots/screenshot_2.jpg" width="25%" />
  
  <br clear="left" />
- <br />
 
 🔗 **[Check it out: XYZ Reader](https://github.com/YassinAJDI/XYZReader)**
 
