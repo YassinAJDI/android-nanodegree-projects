@@ -1,5 +1,22 @@
 # Android Nanodegree Projects
 
+# 🎥 Project #2 & #3: <a href="https://github.com/YassinAJDI/PopularMovies">PopularMovies</a>
+
+<img src="https://github.com/YassinAJDI/PopularMovies/blob/master/screenshots/demo_gif.gif?raw=true" width="40%" align="right">
+
+*#Offline Support #Material Design #DataBinding #MVVM Architecture #Paging #ConstraintLayout #Retrofit*
+
+ Most of us can relate to kicking back on the couch and enjoying a movie with friends and family. This app allow users to discover the most popular nd top rated movies playing. Showcasing Android best practices with Google's recommended architecture: MVVM + Repository + Offline support + Android Architecture Components + Paging library & Retrofit2. 
+ 
+ <img align="left" src="https://github.com/YassinAJDI/PopularMovies/blob/master/screenshots/Screenshot_1.jpg" width="25%" />
+ <img align="left" src="https://github.com/YassinAJDI/PopularMovies/blob/master/screenshots/Screenshot_2.jpg" width="25%" />
+ 
+ <br clear="left" />
+ <br />
+
+🔗 **[Check it out: Popular Movies](https://github.com/YassinAJDI/PopularMovies)**
+
+<br clear="right" />
 
 # 🍖 Project #4: <a href="https://github.com/YassinAJDI/BakingApp">Baking App</a>
 
