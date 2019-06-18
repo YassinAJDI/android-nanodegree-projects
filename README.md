@@ -10,7 +10,9 @@
   <a href="#-license">License</a>
 </p>
 
-# 🍔 Project #1: <a href="https://github.com/YassinAJDI/SandwichClub">SandwichClub</a>
+![screenshot](https://raw.githubusercontent.com/YassinAJDI/android-nanodegree-projects/master/congratulations.png)
+
+## 🍔 Project #1: <a href="https://github.com/YassinAJDI/SandwichClub">SandwichClub</a>
 
 <img src="https://raw.githubusercontent.com/YassinAJDI/SandwichClub/master/images/mockup.png?raw=true" width="60%" align="right">
 
@@ -21,7 +23,7 @@ Building a layout and populating its fields from data received as JSON is a comm
  🔗 **[Check it out: Sandwich Club](https://github.com/YassinAJDI/SandwichClub)**
  <br clear="right" />
 
-# 🎥 Project #2 & #3: <a href="https://github.com/YassinAJDI/PopularMovies">PopularMovies</a>
+## 🎥 Project #2 & #3: <a href="https://github.com/YassinAJDI/PopularMovies">PopularMovies</a>
 
 <img src="https://github.com/YassinAJDI/PopularMovies/blob/master/screenshots/demo_gif.gif?raw=true" width="40%" align="right">
 
@@ -40,7 +42,7 @@ Building a layout and populating its fields from data received as JSON is a comm
 <br clear="right" />
 <br />
 
-# 🍖 Project #4: <a href="https://github.com/YassinAJDI/BakingApp">Baking App</a>
+## 🍖 Project #4: <a href="https://github.com/YassinAJDI/BakingApp">Baking App</a>
 
 <img src="https://raw.githubusercontent.com/YassinAJDI/BakingApp/master/screenshots/Screenshot_3.png?raw=true" width="40%" align="right">
 
@@ -60,7 +62,7 @@ Building a layout and populating its fields from data received as JSON is a comm
 <br clear="right" />
 <br />
 
-# 🔨 Project #5: <a href="https://github.com/YassinAJDI/BuildItBigger">Build It Bigger</a>
+## 🔨 Project #5: <a href="https://github.com/YassinAJDI/BuildItBigger">Build It Bigger</a>
 
 <img src="https://raw.githubusercontent.com/YassinAJDI/BuildItBigger/master/app-architecture.png?raw=true" width="60%" align="right">
 
@@ -72,7 +74,7 @@ A joke telling app with a free ad-supported version and a paid version. Google C
 
 <br clear="right" />
 
-# 🎨 Project #6: <a href="https://github.com/YassinAJDI/XYZReader">XYZ Reader</a>
+## 🎨 Project #6: <a href="https://github.com/YassinAJDI/XYZReader">XYZ Reader</a>
 
 <img src="https://github.com/YassinAJDI/XYZReader/raw/master/screenshots/demo1.gif?raw=true" width="40%" align="right">
 
@@ -94,5 +96,3 @@ A joke telling app with a free ad-supported version and a paid version. Google C
 
 This project is released under the MIT license.
 See [LICENSE](./LICENSE) for details.
-
-![screenshot](https://raw.githubusercontent.com/YassinAJDI/android-nanodegree-projects/master/android-nanodegree-certificate.jpg)
