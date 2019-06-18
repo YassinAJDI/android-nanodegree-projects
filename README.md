@@ -10,9 +10,7 @@
   <a href="#-license">License</a>
 </p>
 
-![screenshot](https://raw.githubusercontent.com/YassinAJDI/android-nanodegree-projects/master/android-nanodegree-certificate.jpg)
-
-# 🎥 Project #1: <a href="https://github.com/YassinAJDI/SandwichClub">SandwichClub</a>
+# 🍔 Project #1: <a href="https://github.com/YassinAJDI/SandwichClub">SandwichClub</a>
 
 <img src="https://raw.githubusercontent.com/YassinAJDI/SandwichClub/master/images/mockup.png?raw=true" width="60%" align="right">
 
@@ -96,3 +94,5 @@ A joke telling app with a free ad-supported version and a paid version. Google C
 
 This project is released under the MIT license.
 See [LICENSE](./LICENSE) for details.
+
+![screenshot](https://raw.githubusercontent.com/YassinAJDI/android-nanodegree-projects/master/android-nanodegree-certificate.jpg)
