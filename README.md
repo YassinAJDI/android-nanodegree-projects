@@ -1,4 +1,16 @@
-# Android Nanodegree Projects
+<h1 align="center">Android Developer Nanodegree Projects</h1>
+<h4 align="center">All of my completed Android Nanodegree projects.</h4>
+
+<p align="center">
+  <a href="#-project-1-sandwichclub">SandwichClub</a> •
+  <a href="#-project-2--3-popularmovies">PopularMovies</a> •
+  <a href="#-project-4-baking-app">BakingApp</a> •
+  <a href="#-project-5-build-it-bigger">BuildItBigger</a> •
+  <a href="#-project-6-xyz-reader">XYZReader</a> •
+  <a href="#-license">License</a>
+</p>
+
+![screenshot](https://raw.githubusercontent.com/YassinAJDI/android-nanodegree-projects/master/android-nanodegree-certificate.jpg)
 
 # 🎥 Project #1: <a href="https://github.com/YassinAJDI/SandwichClub">SandwichClub</a>
 
@@ -8,13 +20,8 @@
 
 Building a layout and populating its fields from data received as JSON is a common task for Android Developers. Although JSON parsing is usually done using libraries, writing the JSON parsing for this project will help you to better understand how it is processed.
  
- <br clear="left" />
- <br />
- 
  🔗 **[Check it out: Sandwich Club](https://github.com/YassinAJDI/SandwichClub)**
-
-<br clear="right" />
-<br />
+ <br clear="right" />
 
 # 🎥 Project #2 & #3: <a href="https://github.com/YassinAJDI/PopularMovies">PopularMovies</a>
 
@@ -79,6 +86,7 @@ A joke telling app with a free ad-supported version and a paid version. Google C
  <img align="left" src="https://raw.githubusercontent.com/YassinAJDI/XYZReader/master/screenshots/screenshot_2.jpg" width="25%" />
  
  <br clear="left" />
+ <br />
 
 🔗 **[Check it out: XYZ Reader](https://github.com/YassinAJDI/XYZReader)**
 
